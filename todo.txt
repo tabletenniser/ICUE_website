@@ -1,0 +1,29 @@
+TODO List:
+DONE-upload to: http://ieee.toronto.edu/icue2015/index.html (can we get rid of the index.html?)
+DONE-update schedule
+DONE-update speaker info:https://docs.google.com/document/d/17yoEmuKDH9AWpx_zofCk2JDaeT1dSnoGiCDN1CTuRyM/edit
+DONE-back to top button
+-Speaker pictures, click to show description (Similar to: http://nspire.org/nbtc/#/speakers)
+DONE-Background pictures: crop location picture (bottom left corner), new pictures for organizing committee, sponsors and contact us
+DONE-Contact us: IEEEUTSTUDENTBRANCH@GMAIL.COM; get clear form to work
+DONE-judges pictures
+-Google analytics?
+DONE-sponsors:
+IEEE 
+ece department
+engineering society
+alumini
+utsu
+DONE-organizing committee pictures: https://docs.google.com/document/d/1CX0b6Z8ruxtTTLPTGJJiPZi7SGvnz0gH-2JEkWinyXo/edit
+DONE-update logo
+
+
+DONE-side menu-bar on mobile device
+DONE-better looking schedule table
+DONE-learn more & register now buttons overlap  
+DONE-registor typo
+DONE-menu too long
+DONE-move register above
+DONE-countdown is too big
+DONE-table: combine both keynote speakers from 9:30am-11am
+
